@@ -1,0 +1,1 @@
+# simplified-AWS-architecture
